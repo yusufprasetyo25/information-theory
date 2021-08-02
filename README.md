@@ -29,4 +29,4 @@ https://www.wikiwand.com/en/Blahut%E2%80%93Arimoto_algorithm
 ### InfTheory_HW13.ipynb
 is the first part for finding capacity of given channel
 ### InfTheory_HW13_2.ipynb
-is the second part for finding Rate-distortion function of given
+is the second part for finding Rate-distortion function of given input distribution
